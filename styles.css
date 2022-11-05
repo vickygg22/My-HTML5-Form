@@ -1,0 +1,26 @@
+.row {
+    margin: 20px;
+}
+form {
+    border: solid;
+    border-width: 1px;
+    border-color: rgba(161, 160, 160, 0.555);
+    border-radius: 6px;
+}
+.cards {
+    background-color: gray; 
+}
+.spaceBetweenCards {
+    margin-right: 20px;
+}
+header {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: rgba(161, 160, 160, 0.555);
+    width: 100%;
+}
+.footer {
+    border-top: solid;
+    border-width: 1px;
+    border-color: rgba(161, 160, 160, 0.555);
+}
