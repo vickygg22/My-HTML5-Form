@@ -24,3 +24,7 @@ header {
     border-width: 1px;
     border-color: rgba(161, 160, 160, 0.555);
 }
+input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner-spin-button {
+    appearance: none;
+    margin: 0;
+}
